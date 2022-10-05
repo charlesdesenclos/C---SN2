@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 
 #include "Pile_entier.h";
 #include <iostream>
@@ -8,7 +9,13 @@ using namespace std;
 
 int main()
 {
-	pile_entier *pile = new pile_entier(20);
+	int i;
+	printf("Entrer la taille :");
+	scanf("%d", &i);
+	printf("\n");
+
+
+	pile_entier *pile = new pile_entier(i);
 
 
 

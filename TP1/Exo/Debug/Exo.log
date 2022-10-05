@@ -1,5 +1,3 @@
 ﻿  Exo.cpp
-c:\users\charles\source\repos\exo\exo\exo.cpp(2): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
-  Pile_entier.cpp
-  Génération de code en cours...
+c:\users\charles\source\repos\exo\exo\exo.cpp(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
   Exo.vcxproj -> C:\Users\Charles\source\repos\Exo\Debug\Exo.exe
