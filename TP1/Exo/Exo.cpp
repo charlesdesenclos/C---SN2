@@ -20,7 +20,7 @@ int main()
 
 
 
-	// vérifie si la pile est vide ou pas
+	// vÃ©rifie si la pile est vide ou pas
 
 	if (pile->vide() == 1)
 	{
@@ -32,7 +32,7 @@ int main()
 		printf("La Pile n'est pas vide.\n");
 	}
 
-	// vérifie si la pile est pleine ou non
+	// vÃ©rifie si la pile est pleine ou non
 
 	if (pile->pleine() == 1)
 	{
@@ -63,3 +63,5 @@ int main()
 
 	return 0;
 }
+
+//par Desenclos Charles
